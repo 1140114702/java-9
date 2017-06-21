@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 
 /**
  * 数字格式化
- * Created by zwonb on 17-6-18.
+ * Created by zwonb on 2017-6-18.
  */
 public class DecimalFormatSimpleDemo {
 
